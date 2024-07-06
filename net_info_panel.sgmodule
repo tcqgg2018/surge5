@@ -4,7 +4,7 @@
 
 
 [Script]
-IP信息 = script-path=https://github.com/tcqgg2018/surge5/blob/main/net_info_panel.js,type=generic,script-update-interval=0
+IP信息 = script-path=https://raw.githubusercontent.com/tcqgg2018/surge5/main/net_info_panel.js,type=generic,script-update-interval=0
 
 [Panel]
 net-info-panel=title="网络状态",content="请刷新",style=info,script-name=IP信息
