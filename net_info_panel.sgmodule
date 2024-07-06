@@ -1,3 +1,8 @@
+#!name=网络IP信息
+#!desc=IP信息
+#!system=ios
+
+
 [Script]
 IP信息 = script-path=https://github.com/tcqgg2018/surge5/blob/main/net_info_panel.js,type=generic,script-update-interval=0
 
